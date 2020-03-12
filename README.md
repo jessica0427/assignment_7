@@ -1,13 +1,13 @@
-## Assignment 7: Gui and Matrix ##
+## Week7 Assignment
 
-<img src="https://github.com/sycrus/openframeworks/blob/master/Assignment_7/img/1.png?raw=true" width=400>  <img src="https://github.com/sycrus/openframeworks/blob/master/Assignment_7/img/2.png?raw=true" width=400> <br>
-<img src="https://github.com/sycrus/openframeworks/blob/master/Assignment_7/img/3.png?raw=true" width=400>   <a href="https://vimeo.com/396858004">
-  <img src="https://github.com/sycrus/openframeworks/blob/master/Assignment_7/img/4.png?raw=true" alt="derp" width=400>
-</a>
+https://vimeo.com/394083471
 
+## Screenshots
 
-This week I added GUI, and refined my Assignment 5 using offsets to change emotions more easily. 
+<img width="983" alt="Screen Shot 2020-03-11 at 7 02 48 PM" src="https://user-images.githubusercontent.com/53446525/76472178-26483a00-63cb-11ea-9b04-36425598f333.png">
 
-I used quite a few ofTranslates, ofRotates and  ofScale to adjust the intensity of the emotions. I also used ofMap to map the slider values to the range of emotions.
+<img width="986" alt="Screen Shot 2020-03-11 at 7 02 54 PM" src="https://user-images.githubusercontent.com/53446525/76472180-26e0d080-63cb-11ea-96c2-decb083713d6.png">
 
-Credits for sound: [Tripjazz's Lymeko Drums](https://freesound.org/people/tripjazz/sounds/507970/) from [freesound.org](freesound.org)
+<img width="992" alt="Screen Shot 2020-03-11 at 7 03 03 PM" src="https://user-images.githubusercontent.com/53446525/76472181-26e0d080-63cb-11ea-8467-f27476a256f3.png">
+
+<img width="965" alt="Screen Shot 2020-03-11 at 7 03 47 PM" src="https://user-images.githubusercontent.com/53446525/76472182-26e0d080-63cb-11ea-8fb9-04afc4e0fe80.png">
