@@ -29,7 +29,7 @@ void ofApp::setup(){
     
     gui.setup(); // most of the time you don't need a name
     gui.add(volumeFloatSlider.setup("volume", 0.2f, 0.0f, 1.0f));
-    gui.add(backgroundColorSlider.setup("color", ofColor(100, 100, 140), ofColor(0, 0), ofColor(255, 255)));
+    gui.add(backgroundColorSlider.setup("color", ofColor(54,81,94), ofColor(0, 0), ofColor(255, 255)));
     gui.add(changeExpressionButton.setup("change expression"));
     gui.add(emotionalIntSlider.setup("emotional", 5, 0, 10));
     
@@ -280,7 +280,7 @@ void ofApp::drawSurprisedParts(ofVec2f position, int intensity) {
     //mouth
     ofPushMatrix();
         ofTranslate(position + surprisedMouthOffset);
-        ofScale(1, mouthSize); //to change the mouth shape
+        ofScale(1, mouthSize); 
         ofDrawCircle(0, 0, mouthWidth/2);
     ofPopMatrix();
     
